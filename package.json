@@ -2,6 +2,7 @@
   "name": "portfolio-3d-website",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://srinidhimvgit.github.io/srinidhiMV-3DmyPortfolio/",
   "type": "module",
   "scripts": {
     "dev": "vite",
