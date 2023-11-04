@@ -9,14 +9,14 @@ import close from "./close.svg";
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
-import kubernetes from "./tech/kubernetes.png";
+import kubernetes from "./tech/kubernetes.png"
 import figma from "./tech/figma.png";
 import git from "./tech/git.png";
 import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
-import kotlin from "./tech/kotlin.png";
-import spring from "./tech/spring.png";
 import java from "./tech/java.png";
+import kotlin from "./tech/kotlin.png";
+import spring_framework from "./tech/spring.png"
 import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
@@ -40,14 +40,12 @@ export {
   close,
   css,
   docker,
-  kubernetes,
   figma,
   git,
   html,
-  javascript,
-  spring,
   java,
   kotlin,
+  javascript,
   reactjs,
   redux,
   tailwind,
