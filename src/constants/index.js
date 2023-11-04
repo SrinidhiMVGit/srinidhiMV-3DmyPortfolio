@@ -128,7 +128,7 @@ import {
       company_name: "GlobalLogic",
       icon: globallogic,
       iconBg: "#383E56",
-      date: "December 2023 - Currebt",
+      date: "Dec 2023 - Present",
       points: [
         "Compiled research data and gave professional presentations highlighting finds and recommended optimizations.",
         "Evaluated diverse organizational systems to identify workflow, communication, and resource utilization issues.",
@@ -172,7 +172,7 @@ import {
       company_name: "VW Technologies",
       icon: vw_technologies,
       iconBg: "#383E56",
-      date: "Jan 2023 - Present",
+      date: "August 2018 - May 2019",
       points: [
         "Designed UIs within frontend web frameworks such as ReactJS , exploiting associated templates and tools to shorten development times.",
         "Improved and expanded project platforms using JavaScript to develop rich User Interfaces.",
